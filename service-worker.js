@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/swathi-the-dancer/precache-manifest.eb2204315f96af1f15d7e3b0da1b5a3c.js"
+  "/swathi-the-dancer/precache-manifest.6b8052cab0fb78c74c99f4ee8f37778b.js"
 );
 
 self.addEventListener('message', (event) => {
