@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b44ab1491458a3866d15f88cffaf17dd",
+    "revision": "dcf4fc2edbf4eb459968db6d74367681",
     "url": "/swathi-the-dancer/index.html"
   },
   {
-    "revision": "9dcc87eb77531412cd46",
-    "url": "/swathi-the-dancer/static/css/main.d3aaa3ee.chunk.css"
+    "revision": "8d7e92a4041c2b06813a",
+    "url": "/swathi-the-dancer/static/css/main.e1c5af3b.chunk.css"
   },
   {
     "revision": "759e860465a2ddaf33fd",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/swathi-the-dancer/static/js/2.d60e421d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dcc87eb77531412cd46",
-    "url": "/swathi-the-dancer/static/js/main.6bb5d4f8.chunk.js"
+    "revision": "8d7e92a4041c2b06813a",
+    "url": "/swathi-the-dancer/static/js/main.a73dd7e8.chunk.js"
   },
   {
     "revision": "27c18eb8e02700b1be2b",
     "url": "/swathi-the-dancer/static/js/runtime-main.16dccd6f.js"
+  },
+  {
+    "revision": "85e5fee953419457b43990738a7d832b",
+    "url": "/swathi-the-dancer/static/media/swathi-8.85e5fee9.jpg"
   }
 ]);
