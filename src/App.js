@@ -4,7 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hellow world!</h1>
+      <div className="navigation">
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Photo Gallery</li>
+          <li>Video Gallery</li>
+          <li>Contact</li>
+        </ul>
+      </div>
     </div>
   );
 }

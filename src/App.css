@@ -1,4 +1,30 @@
+body {
+  background-image: url('./gallery/swathi-8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
 }
 
+.navigation {
+  margin: 20px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation ul li {
+  list-style-type: none;
+  padding: 20px;
+  border-right: 1px solid black;
+}
+
+.navigation ul li:last-child {
+  border-right: none;
+}
