@@ -1,17 +1,30 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+const App = () => {
+  
+  const hamburger = (event) => {
+    let x = document.getElementById("navigationId");
+    if (x.className === "navigation") {
+      x.className += " responsive";
+    } else {
+      x.className = "navigation";
+    }
+    // console.log("Hellow therer");
+  }
+
   return (
     <div className="App">
-      <div className="navigation">
-        <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Photo Gallery</li>
-          <li>Video Gallery</li>
-          <li>Contact</li>
-        </ul>
+      <div className="navigation" id="navigationId">
+      <span className="active">Home</span>
+      <span>About</span>
+      <span>Blog</span>
+      <span>Photo Gallery</span>
+      <span>Video Gallery</span>
+      <span>Contact</span>
+      <span className="icon" onClick={hamburger}>
+        <i className="fa fa-bars"></i>
+      </span>
       </div>
     </div>
   );
