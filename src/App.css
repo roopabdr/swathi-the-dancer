@@ -1,5 +1,5 @@
 body {
-  background-image: url('./gallery/swathi-8.jpg');
+  background-image: url('./gallery/swati-1.jpg');
   /* background-position: center center; */
   background-size: cover;
   background-repeat: no-repeat;
@@ -10,7 +10,7 @@ body {
   body {
     /* The file size of this background image is 93% smaller
        to improve page load speed on mobile internet connections */
-       background-image: url('./gallery/swathi-3-mobile.jpg');
+       background-image: url('./gallery/swati-2-mobile.jpg');
        /* background-position: center center; */
        background-size: cover;
        background-repeat: no-repeat;
@@ -68,7 +68,7 @@ body {
   }
 }
 
-/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+/* The "responsive" class is added to the navigation with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
 @media screen and (max-width: 600px) {
   .navigation.responsive {position: relative;}
   .navigation.responsive span.icon {

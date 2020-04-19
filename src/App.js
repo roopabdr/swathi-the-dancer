@@ -10,7 +10,6 @@ const App = () => {
     } else {
       x.className = "navigation";
     }
-    // console.log("Hellow therer");
   }
 
   return (
