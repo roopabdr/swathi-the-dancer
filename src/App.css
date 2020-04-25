@@ -1,20 +1,20 @@
 body {
-  background-image: url('./gallery/swati-1.jpg');
+  background-image: url('./gallery/swati-1.png');
   /* background-position: center center; */
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #464646;
+  background-color: #f2f2f2;
 }
 
 @media only screen and (max-width: 600px) {
   body {
     /* The file size of this background image is 93% smaller
        to improve page load speed on mobile internet connections */
-       background-image: url('./gallery/swati-2-mobile.jpg');
+       background-image: url('./gallery/swati-2.png');
        /* background-position: center center; */
        background-size: cover;
        background-repeat: no-repeat;
-       background-color: #464646;
+       background-color: #f2f2f2;
   }
 }
 
@@ -80,5 +80,37 @@ body {
     float: none;
     display: block;
     text-align: left;
+  }
+}
+
+.websiteheading {
+  margin: 1% 2% 0% 0%;
+  color: blueviolet;
+  text-align: right;
+}
+
+.heading {
+  font-family: 'Oswald', sans-serif;
+  font-size: 700%;
+  word-wrap: break-word;
+  /* word-spacing: 10px; */
+  /* letter-spacing: -7px; */
+  /* transform: scale(1, 1.5); */
+}
+
+.titletop {
+  font-family: 'Courgette', cursive;
+  font-size: 150%;
+}
+
+@media only screen and (max-width: 600px) {
+  .heading {
+    font-family: 'Oswald', sans-serif;
+    font-size: 200%;
+  }
+
+  .titletop {
+    font-family: 'Courgette', cursive;
+    font-size: 50%;
   }
 }
