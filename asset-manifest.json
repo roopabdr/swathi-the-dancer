@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swathi-the-dancer/static/css/main.3532c2fd.chunk.css",
+    "main.css": "/swathi-the-dancer/static/css/main.bdd02d22.chunk.css",
     "main.js": "/swathi-the-dancer/static/js/main.65c9caf5.chunk.js",
     "main.js.map": "/swathi-the-dancer/static/js/main.65c9caf5.chunk.js.map",
     "runtime-main.js": "/swathi-the-dancer/static/js/runtime-main.16dccd6f.js",
@@ -8,16 +8,16 @@
     "static/js/2.d60e421d.chunk.js": "/swathi-the-dancer/static/js/2.d60e421d.chunk.js",
     "static/js/2.d60e421d.chunk.js.map": "/swathi-the-dancer/static/js/2.d60e421d.chunk.js.map",
     "index.html": "/swathi-the-dancer/index.html",
-    "precache-manifest.fe1f806dd62b395f03c4fc294ad21e5e.js": "/swathi-the-dancer/precache-manifest.fe1f806dd62b395f03c4fc294ad21e5e.js",
+    "precache-manifest.e5b0f078989aa8aba750a5fadd3d004c.js": "/swathi-the-dancer/precache-manifest.e5b0f078989aa8aba750a5fadd3d004c.js",
     "service-worker.js": "/swathi-the-dancer/service-worker.js",
-    "static/css/main.3532c2fd.chunk.css.map": "/swathi-the-dancer/static/css/main.3532c2fd.chunk.css.map",
+    "static/css/main.bdd02d22.chunk.css.map": "/swathi-the-dancer/static/css/main.bdd02d22.chunk.css.map",
     "static/js/2.d60e421d.chunk.js.LICENSE.txt": "/swathi-the-dancer/static/js/2.d60e421d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/swathi-the-dancer/static/media/swati-2.252d32e8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.16dccd6f.js",
     "static/js/2.d60e421d.chunk.js",
-    "static/css/main.3532c2fd.chunk.css",
+    "static/css/main.bdd02d22.chunk.css",
     "static/js/main.65c9caf5.chunk.js"
   ]
 }
