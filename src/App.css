@@ -114,3 +114,15 @@ body {
     font-size: 50%;
   }
 }
+
+@media only screen and (max-width: 850px) {
+  .heading {
+    font-family: 'Oswald', sans-serif;
+    font-size: 200%;
+  }
+
+  .titletop {
+    font-family: 'Courgette', cursive;
+    font-size: 50%;
+  }
+}
